@@ -1,0 +1,39 @@
+// Colors available for use in Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+// Cores disponíveis para usar no Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+//CHANGE XXX FOR TEAM THAT IS BLOCKED
+
+"Phrases"
+{
+	"Spectator"
+	{
+		"en"		"{darkred}SPECTATOR Team is Blocked!"
+		"pt"		"{darkred}Equipa ESPECTADOR está Bloqueada!"
+		"pt_p"		"{darkred}Equipa ESPECTADOR está Bloqueada!"
+	}
+
+	"Terrorist"
+	{
+		"en"		"{darkred}TERRORIST Team is Blocked!"
+		"pt"		"{darkred}Equipa TERRORISTA está Bloqueada!"
+		"pt_p"		"{darkred}Equipa TERRORISTA está Bloqueada!"
+	}
+
+	"CounterTerrorist"
+	{
+		"en"		"{darkred}COUNTER-TERRORIST Team is Blocked!"
+		"pt"		"{darkred}Equipa CONTRA-TERRORISTA está Bloqueada!"
+		"pt_p"		"{darkred}Equipa CONTRA-TERRORISTA está Bloqueada!"
+	}
+
+	"JoinMsg"
+	{
+		"en"		"{default}Team {green}XXX {default}is {green}Blocked {default}!"
+		"pt"		"EQUIPA XXX BLOQUEADA"
+		"pt_p"		"EQUIPA XXX BLOQUEADA"
+	}
+}
+

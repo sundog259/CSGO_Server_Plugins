@@ -1,0 +1,150 @@
+"Phrases"
+{
+	"Boss Hud Title"
+	{
+		"en"		"Boss Hud Anubis\n "
+		"chi"		"Boss Hud Anubis\n "
+	}
+	"Boss Hud Admin Title"
+	{
+		"en"		"Boss Hud Admin\n "
+		"chi"		"Boss Hud Admin\n "
+	}
+	"Boss Hud Damage"
+	{
+		"en"		"Boss Hud Damage"
+		"chi"		"BOSS hud 输出"
+	}
+	"Brekable Hud"
+	{
+		"en"		"Brekable Hud"
+		"chi"		"可破坏物品 hud"
+	}
+	"Boss Hud Type"
+	{
+		"en"		"Display type"
+		"chi"		"显示类型"
+	}
+	"Boss Hit Marker"
+	{
+		"en"		"Boss Hit Marker"
+		"chi"		"BOSS命中标记"
+	}
+	"Boss Top Rank"
+	{
+		"en"		"Boss Top Rank"
+		"chi"		"输出排行"
+	}
+	"Boss Hud Position"
+	{
+		"en"		"Hud position"
+		"chi"		"Hud 位置"
+	}
+	"Change Hud Position"
+	{
+		"#format"		"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightgreen}Default: {yellow}-1.0 0.775 {lightred}> {default}Type the new position of Hud in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}当前值: {yellow}{1} {lightgreen}默认: {yellow}-1.0 0.775 {lightred}> {default}在聊天中输入新的 Hud 位置并 [ENTER] 或输入 {lightgreen}!cancel {default}取消."
+	}
+	"Boss Hud Title Admin Disabled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"Boss Hud Admin\n \nM_Iname: {1} [Disabled]\nHammerID: {2}\nHPvalue_max: {3}\n "
+		"chi"		"Boss Hud Admin\n \nM_Iname: {1} [已禁用]\nHammerID: {2}\nHP最大值: {3}\n "
+	}
+	"Boss Hud Title Admin Enabled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"Boss Hud Admin\n \nM_Iname: {1} [Enabled]\nHammerID: {2}\nHPvalue_max: {3}\n "
+		"chi"		"Boss Hud Admin\n \nM_Iname: {1} [Ativado]\nHammerID: {2}\nHP最大值: {3}\n "
+	}
+	"Change Boss Name"
+	{
+		"en"		"Change Boss Name"
+		"chi"		"更改BOSS名称"
+	}
+	"Change Boss Max_Hp"
+	{
+		"en"		"Change Boss Max_Hp"
+		"chi"		"Change Boss Max_Hp"
+	}
+	"Center"
+	{
+		"en"		"Center"
+		"chi"		"中心"
+	}
+	"Display Hud"
+	{
+		"en"		"Hud"
+		"chi"		"Hud"
+	}
+	"Enable"
+	{
+		"en"		"Enable"
+		"chi"		"启用"
+	}
+	"Desable"
+	{
+		"en"		"Desable"
+		"chi"		"禁用"
+	}
+	"Enabled"
+	{
+		"en"		"Enabled"
+		"chi"		"已启用"
+	}
+	"Desabled"
+	{
+		"en"		"Desabled"
+		"chi"		"已禁用"
+	}
+	"No entity found"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} No entity found, wait for the file to be created."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} 未找到实体,等待文件创建"
+	}
+	"Rename the entity"
+	{
+		"#format"	"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightred}> {default}Type the new name of the Entity in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}当前值: {yellow}{1} {lightred}> {default}在聊天中输入实体的新名称并 [ENTER] 或输入 {lightgreen}!cancel {default}取消."
+	}
+	"Change Entity Hp_Max"
+	{
+		"#format"	"{1:d}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightred}> {default}Enter the Entity's new Hp_Max in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}当前值: {yellow}{1} {lightred}> {default}在聊天中输入实体的新 Hp_Max 并 [ENTER] 或输入 {lightgreen}!cancel {default}取消."
+	}
+	"Invalid Entity"
+	{
+		"#format"	"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} The entity (ID {lightgreen}{1}{default}) is invalid, use {lightgreen}!hpdebug {default}to obtain the {lightgreen}HamerId {default}of the Entities."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} 实体 (ID {lightgreen}{1}{default}) 无效,使用  {lightgreen}!hpdebug {default}获取 {lightgreen}HamerId {default}的实体."
+	}
+	"You Points"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"You Damge {1} - {2} DMG."
+		"chi"		"你的伤害 {1} - {2} DMG."
+	}
+	"You haven t done any damage"
+	{
+		"en"		"You haven't done any damage to the zombies this round."
+		"chi"		"这一轮你没有对敌人造成任何伤害."
+	}
+	"Boshud Debugger Enabled"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} BosHud's Debugger mode was: {lightgreen}Enabled{default}."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} 的调试器模式为: {lightgreen}Habilitado{default}."
+	}
+	"Boshud Debugger Desabled"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} BosHud's Debugger mode was: {lightred}Desabled{default}."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} 的调试器模式是: {lightred}Desabilitado{default}."
+	}
+	"Cancel"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} Canceled Action."
+		"chi"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} 取消操作."
+	}
+}

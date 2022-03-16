@@ -1,0 +1,73 @@
+"BOSSHP"
+{
+	"62550"
+	{
+		"enabled"		"0"
+		"hammerid"		"62550"
+		"m_iname"		"►[Vidro Sala]◄"
+		"HPvalue_max"		"20000"
+	}
+	"29595"
+	{
+		"enabled"		"1"
+		"hammerid"		"29595"
+		"m_iname"		"►[Statue]◄"
+		"HPvalue_max"		"2977"
+	}
+	"46816"
+	{
+		"enabled"		"0"
+		"hammerid"		"46816"
+		"m_iname"		"►[nrk1_naraka_boss_hitbox]◄"
+		"HPvalue_max"		"999999983"
+	}
+	"41571"
+	{
+		"enabled"		"1"
+		"hammerid"		"41571"
+		"m_iname"		"►[BOSS nrk1_counter]◄"
+		"HPvalue_max"		"150"
+	}
+	"41569"
+	{
+		"enabled"		"1"
+		"hammerid"		"41569"
+		"m_iname"		"►[BOSS nrk1_hp_backup]◄"
+		"HPvalue_max"		"150"
+	}
+	"41567"
+	{
+		"enabled"		"1"
+		"hammerid"		"41567"
+		"m_iname"		"►[BOSS nrk1_hp_iterations]◄"
+		"HPvalue_max"		"0"
+	}
+	"69589"
+	{
+		"enabled"		"1"
+		"hammerid"		"69589"
+		"m_iname"		"►[BOSS nrk1_boss_hp_backup]◄"
+		"HPvalue_max"		"10"
+	}
+	"69587"
+	{
+		"enabled"		"1"
+		"hammerid"		"69587"
+		"m_iname"		"►[BOSS nrk1_boss_laser_counter]◄"
+		"HPvalue_max"		"10"
+	}
+	"51265"
+	{
+		"enabled"		"0"
+		"hammerid"		"51265"
+		"m_iname"		"►[nrk1_laserboss_2_hitbox]◄"
+		"HPvalue_max"		"2147483633"
+	}
+	"69591"
+	{
+		"enabled"		"1"
+		"hammerid"		"69591"
+		"m_iname"		"►[BOSS nrk1_boss_hp_iterations]◄"
+		"HPvalue_max"		"4"
+	}
+}

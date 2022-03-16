@@ -1,0 +1,150 @@
+"Phrases"
+{
+	"Boss Hud Title"
+	{
+		"en"		"Boss Hud Anubis\n "
+		"pt"		"Boss Hud Anubis\n "
+	}
+	"Boss Hud Admin Title"
+	{
+		"en"		"Boss Hud Admin\n "
+		"pt"		"Boss Hud Admin\n "
+	}
+	"Boss Hud Damage"
+	{
+		"en"		"Boss Hud Damage"
+		"pt"		"Danos Boss na Tela"
+	}
+	"Brekable Hud"
+	{
+		"en"		"Brekable Hud"
+		"pt"		"Hp Itens ão Quebrar"
+	}
+	"Boss Hud Type"
+	{
+		"en"		"Display type"
+		"pt"		"Tipo de visor"
+	}
+	"Boss Hit Marker"
+	{
+		"en"		"Boss Hit Marker"
+		"pt"		"Auxílio de mira"
+	}
+	"Boss Top Rank"
+	{
+		"en"		"Boss Top Rank"
+		"pt"		"Top Rank Boss"
+	}
+	"Boss Hud Position"
+	{
+		"en"		"Hud position"
+		"pt"		"Posição do Hud"
+	}
+	"Change Hud Position"
+	{
+		"#format"		"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightgreen}Default: {yellow}-1.0 0.775 {lightred}> {default}Type the new position of Hud in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Valor Atual: {yellow}{1} {lightgreen}Padrão: {yellow}-1.0 0.775 {lightred}> {default}Digite a nova posiçao do Hud no chat e de [ENTER] ou digite {lightgreen}!cancel {default}para cancelar."
+	}
+	"Boss Hud Title Admin Disabled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"Boss Hud Admin\n \nM_Iname: {1} [Disabled]\nHammerID: {2}\nHPvalue_max: {3}\n "
+		"pt"		"Boss Hud Admin\n \nM_Iname: {1} [Desativado]\nHammerID: {2}\nHPvalue_max: {3}\n "
+	}
+	"Boss Hud Title Admin Enabled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"Boss Hud Admin\n \nM_Iname: {1} [Enabled]\nHammerID: {2}\nHPvalue_max: {3}\n "
+		"pt"		"Boss Hud Admin\n \nM_Iname: {1} [Ativado]\nHammerID: {2}\nHPvalue_max: {3}\n "
+	}
+	"Change Boss Name"
+	{
+		"en"		"Change Boss Name"
+		"pt"		"Alterar o Nome do Boss"
+	}
+	"Change Boss Max_Hp"
+	{
+		"en"		"Change Boss Max_Hp"
+		"pt"		"Alterar Max_Hp do Boss"
+	}
+	"Center"
+	{
+		"en"		"Center"
+		"pt"		"Informações"
+	}
+	"Display Hud"
+	{
+		"en"		"Hud"
+		"pt"		"Hud"
+	}
+	"Enable"
+	{
+		"en"		"Enable"
+		"pt"		"Habilitar"
+	}
+	"Desable"
+	{
+		"en"		"Desable"
+		"pt"		"Desabilitar"
+	}
+	"Enabled"
+	{
+		"en"		"Enabled"
+		"pt"		"Ativado"
+	}
+	"Desabled"
+	{
+		"en"		"Desabled"
+		"pt"		"Desativado"
+	}
+	"No entity found"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} No entity found, wait for the file to be created."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} Nenhuma entidade encontrada, aguarde a criação do arquivo."
+	}
+	"Rename the entity"
+	{
+		"#format"	"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightred}> {default}Type the new name of the Entity in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Valor Atual: {yellow}{1} {lightred}> {default}Digite o novo nome da Entidade no chat e de [ENTER] ou digite {lightgreen}!cancel {default}para cancelar."
+	}
+	"Change Entity Hp_Max"
+	{
+		"#format"	"{1:d}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Current value: {yellow}{1} {lightred}> {default}Enter the Entity's new Hp_Max in the chat and [ENTER] or type {lightgreen}!cancel {default}to cancel."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}] < {lightgreen}Valor Atual: {yellow}{1} {lightred}> {default}Digite o novo Hp_Max da Entidade no chat e de [ENTER] ou digite {lightgreen}!cancel {default}para cancelar."
+	}
+	"Invalid Entity"
+	{
+		"#format"	"{1:s}"
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} The entity (ID {lightgreen}{1}{default}) is invalid, use {lightgreen}!hpdebug {default}to obtain the {lightgreen}HamerId {default}of the Entities."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} A entidade (ID {lightgreen}{1}{default}) é inválida , use  {lightgreen}!hpdebug {default}para obter o {lightgreen}HamerId {default}das Entidades."
+	}
+	"You Points"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"You Damge {1} - {2} DMG."
+		"pt"		"Danos que você causou {1} - {2} DMG."
+	}
+	"You haven t done any damage"
+	{
+		"en"		"You haven't done any damage to the zombies this round."
+		"pt"		"Você não causou danos aos zumbis nesta rodada."
+	}
+	"Boshud Debugger Enabled"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} BosHud's Debugger mode was: {lightgreen}Enabled{default}."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} O modo Debugger do BosHud foi: {lightgreen}Habilitado{default}."
+	}
+	"Boshud Debugger Desabled"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} BosHud's Debugger mode was: {lightred}Desabled{default}."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} O modo Debugger do BosHud foi: {lightred}Desabilitado{default}."
+	}
+	"Cancel"
+	{
+		"en"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} Canceled Action."
+		"pt"		" {lightred}[{lightgreen}Boss_HUD{lightred}]{default} Ação Cancelada."
+	}
+}

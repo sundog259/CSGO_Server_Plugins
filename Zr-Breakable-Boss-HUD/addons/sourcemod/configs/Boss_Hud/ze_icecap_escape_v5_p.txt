@@ -1,0 +1,206 @@
+"BOSSHP"
+{
+	"208329"
+	{
+		"enabled"		"1"
+		"hammerid"		"208329"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"583"
+	}
+	"15766"
+	{
+		"enabled"		"1"
+		"hammerid"		"15766"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"581"
+	}
+	"16545"
+	{
+		"enabled"		"1"
+		"hammerid"		"16545"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"581"
+	}
+	"115899"
+	{
+		"enabled"		"1"
+		"hammerid"		"115899"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"172"
+	}
+	"19126"
+	{
+		"enabled"		"0"
+		"hammerid"		"19126"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"-8"
+	}
+	"19141"
+	{
+		"enabled"		"1"
+		"hammerid"		"19141"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"5"
+	}
+	"19135"
+	{
+		"enabled"		"1"
+		"hammerid"		"19135"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"12"
+	}
+	"19171"
+	{
+		"enabled"		"0"
+		"hammerid"		"19171"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"-8"
+	}
+	"19213"
+	{
+		"enabled"		"1"
+		"hammerid"		"19213"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"5"
+	}
+	"115941"
+	{
+		"enabled"		"1"
+		"hammerid"		"115941"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"177"
+	}
+	"44147"
+	{
+		"enabled"		"1"
+		"hammerid"		"44147"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"20"
+	}
+	"44546"
+	{
+		"enabled"		"1"
+		"hammerid"		"44546"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"370"
+	}
+	"44270"
+	{
+		"enabled"		"1"
+		"hammerid"		"44270"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"183"
+	}
+	"44266"
+	{
+		"enabled"		"1"
+		"hammerid"		"44266"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"191"
+	}
+	"32863"
+	{
+		"enabled"		"1"
+		"hammerid"		"32863"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"11"
+	}
+	"32866"
+	{
+		"enabled"		"1"
+		"hammerid"		"32866"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"15"
+	}
+	"32827"
+	{
+		"enabled"		"1"
+		"hammerid"		"32827"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"17"
+	}
+	"32830"
+	{
+		"enabled"		"1"
+		"hammerid"		"32830"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"19"
+	}
+	"32851"
+	{
+		"enabled"		"1"
+		"hammerid"		"32851"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"4"
+	}
+	"32854"
+	{
+		"enabled"		"1"
+		"hammerid"		"32854"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"11"
+	}
+	"32857"
+	{
+		"enabled"		"1"
+		"hammerid"		"32857"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"15"
+	}
+	"32860"
+	{
+		"enabled"		"1"
+		"hammerid"		"32860"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"17"
+	}
+	"32818"
+	{
+		"enabled"		"0"
+		"hammerid"		"32818"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"-8"
+	}
+	"44246"
+	{
+		"enabled"		"1"
+		"hammerid"		"44246"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"152"
+	}
+	"32690"
+	{
+		"enabled"		"1"
+		"hammerid"		"32690"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"3"
+	}
+	"32693"
+	{
+		"enabled"		"0"
+		"hammerid"		"32693"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"-6"
+	}
+	"42104"
+	{
+		"enabled"		"1"
+		"hammerid"		"42104"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"4"
+	}
+	"38359"
+	{
+		"enabled"		"1"
+		"hammerid"		"38359"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"4"
+	}
+	"53009"
+	{
+		"enabled"		"1"
+		"hammerid"		"53009"
+		"m_iname"		"►[No-Name]◄"
+		"HPvalue_max"		"482"
+	}
+}
