@@ -18,7 +18,7 @@
 #define PLUGIN_VERSION "3.8.149"
 
 //uncomment the next line if you using DynamicChannels: https://github.com/Vauff/DynamicChannels
-//#define DYNAMIC_CHANNELS
+#define DYNAMIC_CHANNELS
 #if defined DYNAMIC_CHANNELS
 #include <DynamicChannels>
 #endif
