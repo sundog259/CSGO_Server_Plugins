@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"#format"	"{1:t}"
+		"en"		"{GREEN}[Healthshot]{DEFAULT} {1}"
+		"ru"		"{GREEN}[Шприц]{DEFAULT} {1}"
+		"chi"	"{GREEN}[医疗针]{DEFAULT} {1}"
+	}
+	
+	"Limit"
+	{
+		"#format"	"{1:d}"
+		"en"		"You can buy healthshot only {1} times per round!"
+		"ru"		"Вы можете купить шприц только {1} раз за раунд!"
+		"chi"	"您每回合只能购买 {1} 次医疗针!"
+	}
+	
+	"Not enough cash"
+	{
+		"#format"	"{1:d}"
+		"en"		"You don't have enough money to buy a healthshot ! You need {1}$"
+		"ru"		"У тебя не хватит денег, чтобы купить шприц ! Тебе нужно {1}$"
+		"chi"	"你没有足够的金钱购买医疗针! 你需要{1}$"
+	}
+	
+	"Too much health"
+	{
+		"en"		"You have enough health, and you don't need a healthshot !"
+		"ru"		"У вас достаточно здоровья, и вам не нужен шприц !"
+		"chi"	"你的血量很健康，你不需要医疗针!"
+	}
+	
+	"Healthshot bought"
+	{
+		"en"		"You have successfully bought a healthshot !"
+		"ru"		"Вы успешно купили шприц !"
+		"chi"	"您已成功购买了医疗针!"
+	}
+	
+	"I bought a healthshot"
+	{
+		"#format"	"{1:s}"
+		"en"		"The player {1} bought a healthshot"
+		"ru"		"Игрок {1} купил шприц"
+		"chi"	"玩家 {1} 购买了医疗针"
+	}
+}

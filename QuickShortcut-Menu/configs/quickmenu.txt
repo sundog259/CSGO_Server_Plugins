@@ -1,0 +1,32 @@
+"quickmenu"
+{
+	"title"
+	{
+		"text"	"Shortcuts Menu"
+	}
+	"0"
+	{
+		"display"	"PP-Bizon"
+		"command"	"sm_bizon"
+	}
+	"1"
+	{
+		"display"	"Negev"
+		"command"	"sm_negev"
+	}
+	"2"
+	{
+		"display"	"Kevlar"
+		"command"	"sm_kevlar"
+	}
+	"3"
+	{
+		"display"	"He Grenade"
+		"command"	"sm_he"
+	}
+	"4"
+	{
+		"display"	"Change map stages"
+		"command"	"sm_stage"
+	}
+}

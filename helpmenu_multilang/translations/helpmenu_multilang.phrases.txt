@@ -1,0 +1,152 @@
+"Phrases"
+{
+	"Help Menu Tag"
+	{
+		"en"			"{lightblue}[{green}Help Menu{lightblue}]"
+		"ru"			"{lightblue}[{green}Меню помощи{lightblue}]"
+		"chi"	"{lightblue}[{green}帮助菜单{lightblue}]"
+	}
+	"Help Menu Title"
+	{
+		"en"			"Help Menu"
+		"ru"			"Меню помощи"
+		"chi"	"帮助菜单"
+	}
+	"Help Menu TRules"
+	{
+		"en"			"Server Rules"
+		"ru"			"Правила Сервера"
+		"chi"	"服务器规则"
+	}
+	"Help Menu TInfo"
+	{
+		"en"			"Server Information"
+		"ru"			"Информация о сервере"
+		"chi"	"服务器信息"
+	}
+	"Help Menu TCommands"
+	{
+		"en"			"Commands Menu"
+		"ru"			"Меню команд"
+		"chi"	"指令菜单"
+	}
+	"Enable Show"
+	{
+		"en"			"Enable Show"
+		"ru"			"Включить показ"
+		"chi"	"开启显示"
+	}
+	"No Longer Show"
+	{
+		"en"			"No Longer Show"
+		"ru"			"Больше не показывать"
+		"chi"	"不再显示"
+	}
+	"Server Rules"
+	{
+		"en"			"Server Rules"
+		"ru"			"Правила на сервере"
+		"chi"	"服务器规则"
+	}
+	"Server Commands"
+	{
+		"en"			"Server Commands"
+		"ru"			"Команды на сервере"
+		"chi"	"服务器指令"
+	}
+	"Server Info"
+	{
+		"en"			"Server Info"
+		"ru"			"Информация о сервере"
+		"chi"	"服务器信息"
+	}
+	"Help Menu Show Disable"
+	{
+		"en"			"{default}Help Menu will {red}no longer be {default}displayed when connecting"
+		"ru"			"{default}Меню Помощи больше {red}не будет {default}показваться при заходе"
+		"chi"	"{default}帮助菜单将{red}不再{default}连接后显示"
+	}
+	"Help Menu Show Enable"
+	{
+		"en"			"{default}You have {green}turned on {default}the Help Menu display"
+		"ru"			"{default}Вы {green}включили {default}показ меню помощи"
+		"chi"	"{default}帮助菜单将{green}再{default}连接后显示"
+	}
+	"Help Menu Config Reload"
+	{
+		"en"			"{orange}The command config has been reloaded"
+		"ru"			"{orange}Конфиг команд был перезагружен"
+		"chi"	"{orange}命令配置已重新加载"
+	}
+	"Help Text Main"
+	{
+		"en"			"You are connected to: {SERVERNAME} \ nUse this menu for reference\nPress F4, to quickly open the command menu"
+		"ru"			"Вы зашли на: {SERVERNAME}\nИспользуйте это меню для справки\nНажмите F4, чтобы быстро открыть меню команд"
+		"chi"	"你已经连接到: {SERVERNAME} \ n如果你是第一次进入服务器建议认真阅读菜单\n按F4快速打开菜单"
+	}
+	"Help Text Rules"
+	{
+		"en"			"No racism.\nNo politics.\nDo not spam, advertise etc.\n"
+		"chi"			"禁止任何形式的种族歧视\n禁止讨论政治\n禁止无意义的刷屏或者发布广告.\n"
+	}
+	"Help Text Info"
+	{
+		"en"			"Server Name: {SERVERNAME}\nIP Servers: {IP}:{PORT}\nTickrate: {TIC}\nPlayers: {PL}/{PLMAX}\nMap: {MAP}\nNext Map: {NEXTMAP}\nDate and Time: {DATE} {TIME}\nRemaining time: {TIMELEFT}\nMain Admin: PPrinter\nDiscord: PprInTer#4160"
+		"chi"			"服务器名称: {SERVERNAME}\nIP地址: {IP}:{PORT}\n刷新率: {TIC}\n玩家数: {PL}/{PLMAX}\n地图: {MAP}\n下张地图: {NEXTMAP}\n日期和时间: {DATE} {TIME}\n地图剩余时间: {TIMELEFT}\n管理员: PPrinter\nQQ: 2607058375\nQQ群:572600025"
+	}
+	"Translate Command RTV"
+	{
+		"en"			"!rtv - vote for map change"
+		"chi"			"换图"
+	}
+	"Translate Command NOMINATE"
+	{
+		"en"			"!nominate - for map nomination"
+		"chi"			"订图"
+	}
+	"Translate Command STORE"
+	{
+		"en"			"!store - shopping"
+		"chi"			"商店"
+	}
+	"Translate Command STAGE"
+	{
+		"en"			"!stage - change map stage"
+		"chi"			"调关(如果可用)"
+	}
+	"Translate Command music"
+	{
+		"en"			"!music - change map music volume"
+		"chi"			"调整地图音乐音量"
+	}
+	"Translate Command stopsound"
+	{
+		"en"			"!stopsound - toggle weapon sound"
+		"chi"			"关闭枪声"
+	}
+	"Translate Command hide"
+	{
+		"en"			"!hide - hide teammates"
+		"chi"			"队友隐藏"
+	}
+	"Translate Command hud"
+	{
+		"en"			"!hud - toggle HUD display"
+		"chi"			"神器配置显示"
+	}
+	"Translate Command gun"
+	{
+		"en"			"!gun - weapon menu"
+		"chi"			"买枪"
+	}
+	"Translate Command speed"
+	{
+		"en"			"!speed - show your speed"
+		"chi"			"显示地速"
+	}
+	"Translate Command toplists"
+	{
+		"en"			"!toplists - toplist"
+		"chi"			"排行榜"
+	}
+}

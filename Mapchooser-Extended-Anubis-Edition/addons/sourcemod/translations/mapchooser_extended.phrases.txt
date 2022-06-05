@@ -3,33 +3,39 @@
 	"Vote Nextmap"
 	{
 		"en"			"Vote for the next map!"
+		"chi"	"为下一张地图投票!"
 	}
 
 	"Nextmap Voting Started"
 	{
 		"en"			"Voting for next map has started."
+		"chi"	"下一张地图的投票已经开始!"
 	}
 
 	"Nextmap Voting Finished"
 	{
 		"#format"			"{1:s},{2:i},{3:i}"
 		"en"			"Map voting has finished. The next map will be {1}. (Received {2}%% of {3} votes)"
+		"chi"	"地图投票已经结束. 下张地图为 {1}. (Received {2}%% of {3} votes)"
 	}
 
 	"Current Map Extended"
 	{
 		"#format"			"{1:i},{2:i}"
 		"en"			"The current map has been extended. (Received {1}%% of {2} votes)"
+		"chi"	"当前地图已延长. (Received {1}%% of {2} votes)"
 	}
 
 	"Extend Map"
 	{
 		"en"			"Extend Current Map"
+		"chi"	"延长地图"
 	}
 
 	"Dont Change"
 	{
 		"en"			"Don't Change"
+		"chi"	"不要更换地图"
 	}
 
 	"Current Map Stays"
