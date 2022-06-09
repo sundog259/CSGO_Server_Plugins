@@ -3,7 +3,7 @@
 #include <sourcemod>
 #include <sdktools>
 #include <cstrike>
-#include <morecolors>
+#include <multicolors>
 
 #define PLUGIN_VERSION "2.0"
 
@@ -43,14 +43,14 @@ public Action Command_RadioMute(int client, int args)
 	{
 		g_bIsEnabled[client] = true;
 		FakeClientCommand(client, "ignorerad");
-		CPrintToChat(client, "{green}[{lightgreen}Mute-Radio{green}]{default} You have {fullred}disabled {default}all radio messages.");
+		CPrintToChat(client, "{green}[{lightgreen}Mute-Radio{green}]{default} You have {darkred}disabled {default}all radio messages.");
 		return Plugin_Handled;
 	}
 	else
 	{
 		g_bIsEnabled[client] = false;
 		FakeClientCommand(client, "ignorerad");
-		CPrintToChat(client, "{green}[{lightgreen}Mute-Radio{green}]{default} You have {aqua}enabled {default}all radio messages.");
+		CPrintToChat(client, "{green}[{lightgreen}Mute-Radio{green}]{default} You have {green}enabled {default}all radio messages.");
 		return Plugin_Handled;
 	}
 }

@@ -1,0 +1,16 @@
+#————————————————————————————————————————————————————————————————————————
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+#			Server name: {SERVER_NAME}
+#			Server Owner: PPrinter
+#			QQ群: 572600025
+#			Server IP: {SERVER_IP}
+#			Player count: {PLAYER_COUNT}({CONNECTING_PLAYERS})/{MAXPLAYERS}
+#			Current date: {CURRENT_DATE}
+#			Current time: {CURRENT_TIME}
+#			Current map: {CURRENT_MAP}
+#			Nextmap: {NEXTMAP}
+—————————————————————————————————————————————————————————————————————————
+# userid  | Playername 		| 	 SteamID     |  Connection time  |  ping
+# {USERID}	    {PLAYERNAME} 		  {STEAM32}	  {CONNECTION_TIME}            {CLIENT_PING}
+ 
+—————————————————————————————————————————————————————————————————————————

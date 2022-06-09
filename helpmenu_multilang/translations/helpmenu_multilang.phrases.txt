@@ -70,7 +70,7 @@
 	{
 		"en"			"{default}You have {green}turned on {default}the Help Menu display"
 		"ru"			"{default}Вы {green}включили {default}показ меню помощи"
-		"chi"	"{default}帮助菜单将{green}再{default}连接后显示"
+		"chi"	"{default}帮助菜单{green}将会在{default}连接后显示"
 	}
 	"Help Menu Config Reload"
 	{
@@ -94,59 +94,109 @@
 		"en"			"Server Name: {SERVERNAME}\nIP Servers: {IP}:{PORT}\nTickrate: {TIC}\nPlayers: {PL}/{PLMAX}\nMap: {MAP}\nNext Map: {NEXTMAP}\nDate and Time: {DATE} {TIME}\nRemaining time: {TIMELEFT}\nMain Admin: PPrinter\nDiscord: PprInTer#4160"
 		"chi"			"服务器名称: {SERVERNAME}\nIP地址: {IP}:{PORT}\n刷新率: {TIC}\n玩家数: {PL}/{PLMAX}\n地图: {MAP}\n下张地图: {NEXTMAP}\n日期和时间: {DATE} {TIME}\n地图剩余时间: {TIMELEFT}\n管理员: PPrinter\nQQ: 2607058375\nQQ群:572600025"
 	}
-	"Translate Command RTV"
+	"Translate Command rtv"
 	{
 		"en"			"!rtv - vote for map change"
-		"chi"			"换图"
+		"chi"			"!rtv - 换图"
 	}
-	"Translate Command NOMINATE"
+	"Translate Command nominate"
 	{
 		"en"			"!nominate - for map nomination"
-		"chi"			"订图"
+		"chi"			"!nominate - 订图"
 	}
-	"Translate Command STORE"
+	"Translate Command nomlist"
 	{
-		"en"			"!store - shopping"
-		"chi"			"商店"
+		"en"			"!nomlist - for map nomination"
+		"chi"			"!nomlist - 订图列表"
 	}
-	"Translate Command STAGE"
+	"Translate Command store"
 	{
-		"en"			"!stage - change map stage"
-		"chi"			"调关(如果可用)"
+		"en"			"!store - Opens up shop menu"
+		"chi"			"!store - 商店"
+	}
+	"Translate Command stage"
+	{
+		"en"			"!stage - Change map stage"
+		"chi"			"调关"
 	}
 	"Translate Command music"
 	{
-		"en"			"!music - change map music volume"
-		"chi"			"调整地图音乐音量"
+		"en"			"!music <Number>  - Bring up the Map Music menu to control music on maps. Typing a number will set music to be that volume."
+		"chi"			"!music <Number> - 地图音乐菜单"
 	}
 	"Translate Command stopsound"
 	{
-		"en"			"!stopsound - toggle weapon sound"
-		"chi"			"关闭枪声"
+		"en"			"!stopsound - Toggle weapon sound"
+		"chi"			"!stopsound - 关闭枪声"
 	}
 	"Translate Command hide"
 	{
-		"en"			"!hide - hide teammates"
-		"chi"			"队友隐藏"
+		"en"			"!hide <Number> - Toggles hide teammates feature. Number specifies the range of humans to be hidden"
+		"chi"			"!hide - 队友隐藏"
+	}
+	"Translate Command hideall"
+	{
+		"en"			"!hideall - Toggles hide all teammates feature (including item users)"
+		"chi"			"!hideall - 隐藏全部队友 （包括神器）"
 	}
 	"Translate Command hud"
 	{
-		"en"			"!hud - toggle HUD display"
-		"chi"			"神器配置显示"
+		"en"			"!hud - Toggle item display on your screen"
+		"chi"			"!hud - 神器配置显示"
 	}
 	"Translate Command gun"
 	{
-		"en"			"!gun - weapon menu"
-		"chi"			"买枪"
+		"en"			"!gun - Weapon menu"
+		"chi"			"!gun - 买枪"
 	}
 	"Translate Command speed"
 	{
-		"en"			"!speed - show your speed"
-		"chi"			"显示地速"
+		"en"			"!speed - Show your speed"
+		"chi"			"!speed - 显示地速"
 	}
 	"Translate Command toplists"
 	{
-		"en"			"!toplists - toplist"
-		"chi"			"排行榜"
+		"en"			"!toplists - Toplist"
+		"chi"			"!toplists - 排行榜"
+	}
+	"Translate Command knifemute"
+	{
+		"en"			"!knifemute - Toggle knife sounds against friendly targets"
+		"chi"			"!knifemute - 静音队友的刀声"
+	}
+	"Translate Command shake"
+	{
+		"en"			"!shake - Toggle screen shakes"
+		"chi"			"!shake - 地图震动"
+	}
+	"Translate Command radiomute"
+	{
+		"en"			"!radiomute - Enable or disable the radio voice/text messages"
+		"chi"			"!radiomute - 打开/关闭无线电消息"
+	}
+	"Translate Command tabhud"
+	{
+		"en"			"!tabhud - Toggle the [tab] info feature"
+		"chi"			"!tabhud - 切换 [tab]键 信息功能"
+	}
+	"Translate Command shortcut"
+	{
+		"en"			"!tabhud - Toggle the [shift] shortcut feature"
+		"chi"			"!tabhud - 切换 [shift]键 快捷菜单功能"
+	}
+	"Translate Command tp"
+	{
+		"en"			"!tp - Toggle third person perspective"
+		"chi"			"!tp - 切换第三人称视角"
+	}
+	"Translate Command bhud"
+	{
+		"en"			"!bhud - Opens up the Boss Hud Settings Menu"
+		"chi"			"!bhud - 打开 Boss Hud 设置菜单"
+	}
+	"Translate Command chud"
+	{
+		"en"			"!chud - Opens up the Countdown Hud menu"
+		"chi"			"!chud - 打开倒计时界面菜单"
 	}
 }
